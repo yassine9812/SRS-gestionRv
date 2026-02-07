@@ -9,9 +9,9 @@ L’annulation d’un rendez-vous n’est possible que jusqu’à un certain dé
 **Justification** : Réduction des rendez-vous non honorés (no-show).
 
 ## C-03 : Contrainte technique
-L’application doit être accessible via un navigateur web sans installation de logiciel spécifique.
-**Justification** : Faciliter l’accès pour tous les utilisateurs.
+L’application doit être une application mobile utilisable sur smartphone (Android et/ou iOS) et ne doit pas dépendre d’un accès via navigateur web.
+**Justification** : Assurer une utilisation exclusivement mobile et offrir une expérience adaptée aux smartphones.
 
 ## C-04 : Contrainte réglementaire
 Les données personnelles et médicales des patients doivent être protégées et accessibles uniquement aux utilisateurs autorisés.
-**Justification** : Respect de la confidentialité des données sensibles.
+**Justification** : Respect de la confidentialité et de la réglementation sur les données sensibles.
