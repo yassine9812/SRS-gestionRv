@@ -13,4 +13,4 @@ Le parcours de prise de rendez-vous doit pouvoir être réalisé en moins de 4 �
 Le système doit être disponible au moins 99 % du temps sur une base mensuelle, hors maintenance planifiée.
 
 ## NFR-05 : Compatibilité
-Le système doit être accessible depuis les navigateurs web courants sur ordinateur et mobile.
+L’application doit fonctionner sur les smartphones Android et/ou iOS (versions courantes), avec une interface adaptée aux écrans mobiles.
