@@ -11,7 +11,7 @@ Améliorer le suivi médical des patients et faciliter la prise de décision lor
 
 ### Impact
 - Ajout d’une nouvelle exigence fonctionnelle.
-- Accès limité aux médecins et au secrétariat.
+- Accès limité aux médecins.
 - Nécessité de conserver l’historique des rendez-vous.
 
 ### Décision
@@ -19,5 +19,3 @@ Demande acceptée.
 
 ### Version
 v1.1
-
-## END
