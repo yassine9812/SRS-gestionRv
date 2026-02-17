@@ -14,5 +14,3 @@ Aujourd’hui, la prise de rendez-vous se fait souvent par téléphone ou via de
 - **Patients** : prise de rendez-vous rapide, accès aux disponibilités des médecins, confirmations et rappels.
 - **Médecins** : planning clair, réduction des rendez-vous manqués, meilleure organisation des consultations.
 - **Système de santé / Clinique** : meilleure coordination globale et optimisation de la gestion des rendez-vous.
-
-## Jason
